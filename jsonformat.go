@@ -3,7 +3,7 @@ package main
 import (
 	"encoding/json"
 	"fmt"
-	"github.com/voxelbrain/goptions"
+	"github.com/campact/goptions"
 	"io"
 	"io/ioutil"
 	"log"
